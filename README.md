@@ -1,4 +1,4 @@
-# Python-Server
+# Python-Client-Server
 This is my version of a client-server python socket program
 
 CLIENT:
